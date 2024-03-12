@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.config-list{
+    width: 200px;
+    height: 200px;
+
+    align-items: center;
+    justify-content: center;
+    background: white;
+}
